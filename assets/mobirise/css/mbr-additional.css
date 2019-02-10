@@ -1822,6 +1822,41 @@ body {
   text-align: center;
   color: #7f1933;
 }
+.cid-rhDYJQd8wH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rhDYJQd8wH .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rhDYJQd8wH .mbr-content-text {
+  color: #767676;
+}
+.cid-rhDYJQd8wH .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rhDYJQd8wH .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+@media (max-width: 767px) {
+  .cid-rhDYJQd8wH .card:not(.last-child) {
+    padding-bottom: 1.5rem;
+  }
+}
+.cid-rhDYJQd8wH .img-text {
+  color: #c1c1c1;
+}
 .cid-rhDUxXzGTD {
   padding-top: 75px;
   padding-bottom: 45px;
