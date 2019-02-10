@@ -1822,38 +1822,19 @@ body {
   text-align: center;
   color: #7f1933;
 }
-.cid-rgFI0r5sik {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9ede1;
+.cid-rhDUxXzGTD {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
-.cid-rgFI0r5sik h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rgFI0r5sik p {
+.cid-rhDUxXzGTD .counter-container {
   color: #767676;
-  text-align: left;
 }
-.cid-rgFI0r5sik .card-box {
-  padding-top: 2rem;
+.cid-rhDUxXzGTD .counter-container ol {
+  margin-bottom: 0;
 }
-.cid-rgFI0r5sik .card-wrapper {
-  height: 100%;
-}
-.cid-rgFI0r5sik .card-title {
-  color: #ff3366;
-  text-align: center;
-}
-.cid-rgFI0r5sik P {
-  text-align: center;
-}
-.cid-rgFI0r5sik B {
-  color: #232323;
-}
-.cid-rgFI0r5sik .card-title B {
-  color: #ff3366;
+.cid-rhDUxXzGTD .counter-container ol li {
+  margin-bottom: 1rem;
 }
 .cid-rgJckt7dLx {
   padding-top: 75px;
@@ -1874,6 +1855,9 @@ body {
   color: #767676;
   text-align: right;
 }
+.cid-rgJckt7dLx .mbr-text B {
+  color: #232323;
+}
 .cid-rgJenntWwj {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1893,18 +1877,24 @@ body {
   color: #767676;
   text-align: right;
 }
-.cid-rgJknZ1hc8 {
-  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+.cid-rhDNfiLPit {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-rgJknZ1hc8 .mbr-figure {
+  .cid-rhDNfiLPit .mbr-figure {
     padding-left: 4rem;
   }
 }
-@media (max-width: 991px) {
-  .cid-rgJknZ1hc8 .mbr-figure {
-    padding-top: 3rem;
+@media (max-width: 992px) {
+  .cid-rhDNfiLPit .mbr-figure {
+    padding-top: 1rem;
   }
+}
+.cid-rhDNfiLPit .mbr-text {
+  color: #767676;
+  text-align: center;
 }
 .cid-rgJkSyf4CS {
   padding-top: 90px;
@@ -1932,6 +1922,23 @@ body {
 .cid-rgJkSyf4CS .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rhDVYACSLc {
+  background-image: url("../../../assets/images/mbr-1920x1275.jpg");
+}
+.cid-rhDVYACSLc .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-rhDVYACSLc .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rhDVYACSLc .content-container {
+    padding-right: 5rem;
+  }
 }
 .cid-rgJkYOllTk {
   padding-top: 105px;
